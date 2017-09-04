@@ -1,0 +1,9 @@
+c:\users\devan\documents\visual studio 2015\Projects\Asg4-dds160030\Asg4-dds160030\bin\Debug\Asg4-dds160030.exe.config
+C:\Users\devan\documents\visual studio 2015\Projects\Asg4-dds160030\Asg4-dds160030\bin\Debug\Asg4-dds160030.exe
+C:\Users\devan\documents\visual studio 2015\Projects\Asg4-dds160030\Asg4-dds160030\bin\Debug\Asg4-dds160030.pdb
+C:\Users\devan\documents\visual studio 2015\Projects\Asg4-dds160030\Asg4-dds160030\obj\Debug\Asg4-dds160030.csprojResolveAssemblyReference.cache
+C:\Users\devan\documents\visual studio 2015\Projects\Asg4-dds160030\Asg4-dds160030\obj\Debug\Asg4_dds160030.Properties.Resources.resources
+C:\Users\devan\documents\visual studio 2015\Projects\Asg4-dds160030\Asg4-dds160030\obj\Debug\Asg4-dds160030.csproj.GenerateResource.Cache
+C:\Users\devan\documents\visual studio 2015\Projects\Asg4-dds160030\Asg4-dds160030\obj\Debug\Asg4-dds160030.exe
+C:\Users\devan\documents\visual studio 2015\Projects\Asg4-dds160030\Asg4-dds160030\obj\Debug\Asg4-dds160030.pdb
+C:\Users\devan\documents\visual studio 2015\Projects\Asg4-dds160030\Asg4-dds160030\obj\Debug\Asg4_dds160030.TextSearch.resources
